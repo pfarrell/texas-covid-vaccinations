@@ -20,7 +20,7 @@ jobs:
     - name: Fetch fresh file
       run: |
         curl https://dshs.texas.gov/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls -o texas_county_level_vaccinations.xls
-        mv cdc_vaccinations_demographics.json "texas_vaccinations/texas_county_level_vaccinations-${CURR_TIME}.xls"
+        mv cdc_vaccinations_demographics.json "texas_vaccinations/texas_county_level_vaccinations-${{ env.CURR_TIME }}.xls"
     - name: Commit
       uses: stefanzweifel/git-auto-commit-action@v4.9.2
       with:
