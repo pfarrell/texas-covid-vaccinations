@@ -14,13 +14,15 @@ jobs:
     steps:
     - name: Checkout repo
       uses: actions/checkout@v2
-    - name: Set current date as env variable
+    - name: Set current date
       run: echo "CURR_TIME=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
+    - name: Set base file name
+      run: echo "BASE_FILE_NAME=texas_county_level_vaccinations" >> $GITHUB_ENV
 
     - name: Fetch fresh file
       run: |
-        curl https://dshs.texas.gov/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls -o texas_county_level_vaccinations.xls
-        mv cdc_vaccinations_demographics.json "texas_vaccinations/texas_county_level_vaccinations-${{ env.CURR_TIME }}.xls"
+        curl https://dshs.texas.gov/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls -o ${{ env.BASE_FILE_NAME }}.xls
+        mv cdc_vaccinations_demographics.json "texas_vaccinations/${{ env.BASE_FILE_NAME }}-${{ env.CURR_TIME }}.xls"
     - name: Commit
       uses: stefanzweifel/git-auto-commit-action@v4.9.2
       with:
