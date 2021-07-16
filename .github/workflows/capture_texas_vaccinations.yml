@@ -2,8 +2,8 @@ name: Texas Covid Vaccinations County Level data
 
 on:
   schedule:
-  #   Run every day, at 6 pm.
-    - cron:  '0,15,30,45 * * * *'
+  #   Run every day, at 8 pm.
+    - cron:  '0 20 * * *'
 
 
 jobs:
