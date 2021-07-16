@@ -30,5 +30,5 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4.9.2
       with:
         commit_message: Updating texas_vaccination_data
-        file_pattern: texas_vacccinations/*
+        file_pattern: ${{ env.BASE_FILE_NAME }}/*
         commit_author: GitHub Actions <actions@github.com>
