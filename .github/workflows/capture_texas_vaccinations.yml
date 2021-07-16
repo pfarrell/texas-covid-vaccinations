@@ -23,7 +23,7 @@ jobs:
 
     - name: Fetch fresh file
       run: |
-        curl https://dshs.texas.gov/immunize/covid19/COVID-19-Vaccine-Data-by-County.xlsx -o "${{ env.BASE_FILE_NAME }}.xlsx"
+        curl https://dshs.texas.gov/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls -o "${{ env.BASE_FILE_NAME }}.xlsx"
         mv "${{ env.BASE_FILE_NAME }}.xlsx" "texas_vaccinations/${{ env.BASE_FILE_NAME }}-${{ env.CURR_TIME }}.xlsx
 
     - name: Commit
