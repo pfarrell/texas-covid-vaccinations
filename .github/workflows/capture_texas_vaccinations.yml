@@ -31,4 +31,4 @@ jobs:
       with:
         commit_message: Updating texas_vaccination_data
         file_pattern: .
-        commit_author: GitHub Actions <actions@github.com>
+        commit_author: Patrick Farrell <mr.patfarrell@gmail.com>
