@@ -15,7 +15,7 @@ jobs:
         - name: Set current datetime for file capture
           run: echo "CURR_TIME=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
 
-        -name: Set current date for remote xl file name
+        - name: Set current date for remote xl file name
           run: echo "CURR_DATE=$(date + '%Y%m%d')" >> $GITHUB_ENV
 
         - name: Set base file name
