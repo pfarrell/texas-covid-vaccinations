@@ -2,7 +2,7 @@ name: Texas Covid Vaccinations County Level data
 
 on:
   schedule:
-    - cron: 0 23 * * 3
+    - cron: "0 23 * * *"
 
 jobs:
   update:
