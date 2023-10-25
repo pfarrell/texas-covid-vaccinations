@@ -1,0 +1,2064 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PPZH1XTPPF"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-PPZH1XTPPF", {"groups":"default","page_location":"/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer});gtag("config", "G-MGTZ0WGLL4", {"groups":"default","page_location":"/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer});</script>
+<link rel="canonical" href="https://www.dshs.texas.gov/page-not-found" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-0edcd71d80f068c4346",applicationID:"1064697332"};;/*! For license information please see nr-loader-rum-1.246.0.min.js.LICENSE.txt */
+(()=>{"use strict";var e,t,n={234:(e,t,n)=>{n.d(t,{P_:()=>h,Mt:()=>m,C5:()=>s,DL:()=>w,OP:()=>j,lF:()=>S,Yu:()=>_,Dg:()=>v,CX:()=>c,GE:()=>A,sU:()=>T});var r=n(8632),i=n(9567);const a={beacon:r.ce.beacon,errorBeacon:r.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},o={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!o[e])throw new Error("Info for ".concat(e," was never set"));return o[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");o[e]=(0,i.D)(t,a),(0,r.Qy)(e,o[e],"info")}const d=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var u=n(7056),l=n(50);const f=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:u.oD,inactiveMs:u.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){d(t)?e.mask_selector=t+",[data-nr-mask]":null===t?e.mask_selector=t:(0,l.Z)("An invalid session_replay.mask_selector was provided and will not be used",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){d(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},g={},p="All configuration objects require an agent identifier!";function h(e){if(!e)throw new Error(p);if(!g[e])throw new Error("Configuration for ".concat(e," was never set"));return g[e]}function v(e,t){if(!e)throw new Error(p);g[e]=(0,i.D)(t,f()),(0,r.Qy)(e,g[e],"config")}function m(e,t){if(!e)throw new Error(p);var n=h(e);if(n){for(var r=t.split("."),i=0;i<r.length-1;i++)if("object"!=typeof(n=n[r[i]]))return;n=n[r[r.length-1]]}return n}const b={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},y={};function w(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!y[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return y[e]}function A(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");y[e]=(0,i.D)(t,b),(0,r.Qy)(e,y[e],"loader_config")}const _=(0,r.mF)().o;var x=n(385),D=n(6818);const k={buildEnv:D.Re,customTransaction:void 0,disabled:!1,distMethod:D.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(x._A?.performance?.timeOrigin||x._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+x._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof x._A.XMLHttpRequest?.prototype?.addEventListener,version:D.q4,denyList:void 0},E={};function j(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!E[e])throw new Error("Runtime for ".concat(e," was never set"));return E[e]}function T(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");E[e]=(0,i.D)(t,k),(0,r.Qy)(e,E[e],"runtime")}function S(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,n)=>{n.d(t,{D:()=>i});var r=n(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,r.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,r.Z)("Setting a Configurable requires a model to set its initial properties");const n=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(n).length?e:n;for(let o in a)if(void 0!==e[o])try{Array.isArray(e[o])&&Array.isArray(t[o])?n[o]=Array.from(new Set([...e[o],...t[o]])):"object"==typeof e[o]&&"object"==typeof t[o]?n[o]=i(e[o],t[o]):n[o]=e[o]}catch(e){(0,r.Z)("An error occurred while setting a property of a Configurable",e)}return n}catch(e){(0,r.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,n)=>{n.d(t,{Re:()=>i,gF:()=>a,q4:()=>r});const r="1.246.0",i="PROD",a="CDN"},385:(e,t,n)=>{n.d(t,{Nk:()=>u,Tt:()=>s,_A:()=>a,cv:()=>l,iS:()=>o,il:()=>r,ux:()=>c,v6:()=>i,w1:()=>d});const r="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=r?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=Boolean("hidden"===a?.document?.visibilityState),s=(a?.location,/iPad|iPhone|iPod/.test(a.navigator?.userAgent)),c=s&&"undefined"==typeof SharedWorker,d=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(r&&window.document.documentMode)),u=!!a.navigator?.sendBeacon,l=Math.floor(a?.performance?.timeOrigin||a?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,n)=>{n.d(t,{w:()=>a});var r=n(50);const i={agentIdentifier:"",ee:void 0};class a{constructor(e){try{if("object"!=typeof e)return(0,r.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,n]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=n)}))}catch(e){(0,r.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,n)=>{n.d(t,{L:()=>u,R:()=>c});var r=n(8325),i=n(1284),a=n(4322),o=n(3325);const s={};function c(e,t){const n={staged:!1,priority:o.p[t]||0};d(e),s[e].get(t)||s[e].set(t,n)}function d(e){e&&(s[e]||(s[e]=new Map))}function u(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(d(e),!e||!s[e].get(t))return o(t);s[e].get(t).staged=!0;const n=[...s[e]];function o(t){const n=e?r.ee.get(e):r.ee,o=a.X.handlers;if(n.backlog&&o){var s=n.backlog[t],c=o[t];if(c){for(var d=0;s&&d<s.length;++d)l(s[d],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,n){n[0].on(e,n[1])}))}))}delete o[t],n.backlog[t]=null,n.emit("drain-"+t,[])}}n.every((e=>{let[t,n]=e;return n.staged}))&&(n.sort(((e,t)=>e[1].priority-t[1].priority)),n.forEach((t=>{let[n]=t;s[e].delete(n),o(n)})))}function l(e,t){var n=e[1];(0,i.D)(t[n],(function(t,n){var r=e[0];if(n[0]===r){var i=n[1],a=e[3],o=e[2];i.apply(a,o)}}))}},8325:(e,t,n)=>{n.d(t,{A:()=>c,ee:()=>d});var r=n(8632),i=n(2210),a=n(234);class o{constructor(e){this.contextId=e}}var s=n(3117);const c="nr@context:".concat(s.a),d=function e(t,n){var r={},s={},u={},f=!1;try{f=16===n.length&&(0,a.OP)(n).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var n=r[e];if(!n)return;for(var i=0;i<n.length;i++)n[i]===t&&n.splice(i,1)},emit:function(e,n,r,i,a){!1!==a&&(a=!0);if(d.aborted&&!i)return;t&&a&&t.emit(e,n,r);for(var o=p(r),c=v(e),u=c.length,l=0;l<u;l++)c[l].apply(o,n);var f=b()[s[e]];f&&f.push([g,e,n,o]);return o},get:m,listeners:v,context:p,buffer:function(e,t){const n=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[r,i]=e;s[i]=t,t in n||(n[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:n,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof o?e:e?(0,i.X)(e,c,(()=>new o(c))):new o(c)}function h(e,t){r[e]=v(e).concat(t)}function v(e){return r[e]||[]}function m(t){return u[t]=u[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),u=(0,r.fP)();function l(){d.aborted=!0,d.backlog={}}u.ee||(u.ee=d)},5546:(e,t,n)=>{n.d(t,{E:()=>r,p:()=>i});var r=n(8325).ee.get("handle");function i(e,t,n,i,a){a?(a.buffer([e],i),a.emit(e,t,n)):(r.buffer([e],i),r.emit(e,t,n))}},4322:(e,t,n)=>{n.d(t,{X:()=>a});var r=n(5546);a.on=o;var i=a.handlers={};function a(e,t,n,a){o(a||r.E,i,e,t,n)}function o(e,t,n,i,a){a||(a="feature"),e||(e=r.E);var o=t[a]=t[a]||{};(o[n]=o[n]||[]).push([e,i])}},3239:(e,t,n)=>{n.d(t,{bP:()=>s,iz:()=>c,m$:()=>o});var r=n(385);let i=!1,a=!1;try{const e={get passive(){return i=!0,!1},get signal(){return a=!0,!1}};r._A.addEventListener("test",null,e),r._A.removeEventListener("test",null,e)}catch(e){}function o(e,t){return i||a?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2],r=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,o(n,r))}function c(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2],r=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,o(n,r))}},3117:(e,t,n)=>{n.d(t,{a:()=>r});const r=(0,n(4402).Rl)()},4402:(e,t,n)=>{n.d(t,{Rl:()=>o,ky:()=>s});var r=n(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function a(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=r._A?.crypto||r._A?.msCrypto;let t,n=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(31))),i.split("").map((e=>"x"===e?a(t,++n).toString(16):"y"===e?(3&a()|8).toString(16):e)).join("")}function s(e){const t=r._A?.crypto||r._A?.msCrypto;let n,i=0;t&&t.getRandomValues&&(n=t.getRandomValues(new Uint8Array(31)));const o=[];for(var s=0;s<e;s++)o.push(a(n,++i).toString(16));return o.join("")}},7056:(e,t,n)=>{n.d(t,{Bq:()=>r,Hb:()=>a,oD:()=>i});const r="NRBA",i=144e5,a=18e5},7894:(e,t,n)=>{function r(){return Math.round(performance.now())}n.d(t,{z:()=>r})},50:(e,t,n)=>{function r(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}n.d(t,{Z:()=>r})},2587:(e,t,n)=>{n.d(t,{N:()=>c,T:()=>d});var r=n(8325),i=n(5546),a=n(3325);const o={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]},s=new Set;function c(e,t){const n=r.ee.get(t);e&&"object"==typeof e&&(s.has(t)||Object.entries(e).forEach((e=>{let[t,r]=e;o[t]?o[t].forEach((e=>{r?(0,i.p)("feat-"+t,[],void 0,e,n):(0,i.p)("block-"+t,[],void 0,e,n),(0,i.p)("rumresp-"+t,[Boolean(r)],void 0,e,n)})):r&&(0,i.p)("feat-"+t,[],void 0,void 0,n),d[t]=Boolean(r)})),Object.keys(o).forEach((e=>{void 0===d[e]&&(o[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,n))),d[e]=!1)})),s.add(t))}const d={}},2210:(e,t,n)=>{n.d(t,{X:()=>i});var r=Object.prototype.hasOwnProperty;function i(e,t,n){if(r.call(e,t))return e[t];var i=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,n)=>{n.d(t,{D:()=>r});const r=(e,t)=>Object.entries(e||{}).map((e=>{let[n,r]=e;return t(n,r)}))},4351:(e,t,n)=>{n.d(t,{P:()=>a});var r=n(8325);const i=()=>{const e=new WeakSet;return(t,n)=>{if("object"==typeof n&&null!==n){if(e.has(n))return;e.add(n)}return n}};function a(e){try{return JSON.stringify(e,i())}catch(e){try{r.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,n)=>{n.d(t,{K:()=>o,b:()=>a});var r=n(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function a(e,t){if(i())return e();(0,r.bP)("load",e,t)}function o(e){if(i())return e();(0,r.iz)("DOMContentLoaded",e)}},8632:(e,t,n)=>{n.d(t,{EZ:()=>d,Qy:()=>c,ce:()=>a,fP:()=>o,gG:()=>u,mF:()=>s});var r=n(7894),i=n(385);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=o();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t,n){let i=o();const a=i.initializedAgents||{},s=a[e]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,r.z)(),date:new Date}),i.initializedAgents={...a,[e]:{...s,[n]:t}},i}function d(e,t){o()[e]=t}function u(){return function(){let e=o();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=o();const t=e.init||{};e.init={...t}}(),s(),function(){let e=o();const t=e.loader_config||{};e.loader_config={...t}}(),o()}},7956:(e,t,n)=>{n.d(t,{N:()=>i});var r=n(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],n=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,r.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),n,i)}},3081:(e,t,n)=>{n.d(t,{gF:()=>a,mY:()=>i,t9:()=>r,vz:()=>s,xS:()=>o});const r=n(3325).D.metrics,i="sm",a="cm",o="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,n)=>{n.d(t,{t:()=>r});const r=n(3325).D.pageViewEvent},9251:(e,t,n)=>{n.d(t,{t:()=>r});const r=n(3325).D.pageViewTiming},5938:(e,t,n)=>{n.d(t,{W:()=>i});var r=n(8325);class i{constructor(e,t,n){this.agentIdentifier=e,this.aggregator=t,this.ee=r.ee.get(e),this.featureName=n,this.blocked=!1}}},7530:(e,t,n)=>{n.d(t,{j:()=>b});var r=n(3325),i=n(234),a=n(5546),o=n(8325),s=n(7894),c=n(8e3),d=n(3960),u=n(385),l=n(50),f=n(3081),g=n(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start"].forEach((t=>{e[t]=function(){for(var n=arguments.length,r=new Array(n),i=0;i<n;i++)r[i]=arguments[i];return function(t){for(var n=arguments.length,r=new Array(n>1?n-1:0),i=1;i<n;i++)r[i-1]=arguments[i];let a=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&a.push(e.api[t](...r))})),a.length>1?a:a[0]}(t,...r)}}))}var h=n(2587);const v=e=>{const t=e.startsWith("http");e+="/",n.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:_,runtime:x={loaderType:b},exposed:D=!0}=t;const k=(0,g.gG)();A||(w=k.init,A=k.info,_=k.loader_config),(0,i.Dg)(e,w||{}),(0,i.GE)(e,_||{}),A.jsAttributes??={},u.v6&&(A.jsAttributes.isWorker=!0),(0,i.CX)(e,A);const E=(0,i.P_)(e),j=[A.beacon,A.errorBeacon];m||(m=!0,E.proxy.assets&&(v(E.proxy.assets),j.push(E.proxy.assets)),E.proxy.beacon&&j.push(E.proxy.beacon)),x.denyList=[...E.ajax.deny_list||[],...E.ajax.block_internal?j:[]],(0,i.sU)(e,x),p();const T=function(e,t){t||(0,c.R)(e,"api");const g={};var p=o.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,n,r,a){const o=(0,i.C5)(e);return null===n?delete o.jsAttributes[t]:(0,i.CX)(e,{...o,jsAttributes:{...o.jsAttributes,[t]:n}}),A(v,r,!0,a||null===n?"session":void 0)(t,n)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=A(v,e,!0,"api")})),g.addPageAction=A(v,"addPageAction",!0,r.D.pageAction),g.setCurrentRouteName=A(v,"routeName",!0,r.D.spa),g.setPageViewName=function(t,n){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(n||"http://custom.transaction")+t,A(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",n);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,a.p)(f.xS,["API/start/".concat(t,"/called")],void 0,r.D.metrics,p);const n=Object.values(r.D);if(void 0===e)e=n;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!n.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(n));e.includes(r.D.pageViewEvent)||e.push(r.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var n={},i=this,o="function"==typeof t;return(0,a.p)(m+"tracer",[(0,s.z)(),e,n],i,r.D.spa,p),function(){if(h.emit((o?"":"no-")+"fn-start",[(0,s.z)(),i,o],n),o)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],n),e}finally{h.emit("fn-end",[(0,s.z)()],n)}}}};function A(e,t,n,i){return function(){return(0,a.p)(f.xS,["API/"+t+"/called"],void 0,r.D.metrics,p),i&&(0,a.p)(e+t,[(0,s.z)(),...arguments],n?null:this,i,p),n?void 0:this}}function _(){n.e(75).then(n.bind(n,7438)).then((t=>{let{setAPI:n}=t;n(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=A(m,e,void 0,r.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,a.p)(f.xS,["API/noticeError/called"],void 0,r.D.metrics,p),(0,a.p)("err",[e,(0,s.z)(),!1,t],void 0,r.D.jserrors,p)},u.il?(0,d.b)((()=>_()),!0):_(),g}(e,y);return(0,g.Qy)(e,T,"api"),(0,g.Qy)(e,D,"exposed"),(0,g.EZ)("activatedFeatures",h.T),T}},3325:(e,t,n)=>{n.d(t,{D:()=>r,p:()=>i});const r={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[r.pageViewEvent]:1,[r.pageViewTiming]:2,[r.metrics]:3,[r.jserrors]:4,[r.ajax]:5,[r.sessionTrace]:6,[r.pageAction]:7,[r.spa]:8,[r.sessionReplay]:9}}},r={};function i(e){var t=r[e];if(void 0!==t)return t.exports;var a=r[e]={exports:{}};return n[e](a,a.exports,i),a.exports}i.m=n,i.d=(e,t)=>{for(var n in t)i.o(t,n)&&!i.o(e,n)&&Object.defineProperty(e,n,{enumerable:!0,get:t[n]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,n)=>(i.f[n](e,t),t)),[])),i.u=e=>"nr-rum-1.246.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.246.0.PROD:",i.l=(n,r,a,o)=>{if(e[n])e[n].push(r);else{var s,c;if(void 0!==a)for(var d=document.getElementsByTagName("script"),u=0;u<d.length;u++){var l=d[u];if(l.getAttribute("src")==n||l.getAttribute("data-webpack")==t+a){s=l;break}}s||(c=!0,(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+a),s.src=n),e[n]=[r];var f=(t,r)=>{s.onerror=s.onload=null,clearTimeout(g);var i=e[n];if(delete e[n],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(r))),t)return t(r)},g=setTimeout(f.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=f.bind(null,s.onerror),s.onload=f.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,n)=>{var r=i.o(e,t)?e[t]:void 0;if(0!==r)if(r)n.push(r[2]);else{var a=new Promise(((n,i)=>r=e[t]=[n,i]));n.push(r[2]=a);var o=i.p+i.u(t),s=new Error;i.l(o,(n=>{if(i.o(e,t)&&(0!==(r=e[t])&&(e[t]=void 0),r)){var a=n&&("load"===n.type?"missing":n.type),o=n&&n.target&&n.target.src;s.message="Loading chunk "+t+" failed.\n("+a+": "+o+")",s.name="ChunkLoadError",s.type=a,s.request=o,r[1](s)}}),"chunk-"+t,t)}};var t=(t,n)=>{var r,a,[o,s,c]=n,d=0;if(o.some((t=>0!==e[t]))){for(r in s)i.o(s,r)&&(i.m[r]=s[r]);if(c)c(i)}for(t&&t(n);d<o.length;d++)a=o[d],i.o(e,a)&&e[a]&&e[a][0](),e[a]=0},n=self["webpackChunk:NRBA-1.246.0.PROD"]=self["webpackChunk:NRBA-1.246.0.PROD"]||[];n.forEach(t.bind(null,0)),n.push=t.bind(null,n.push.bind(n))})(),(()=>{var e=i(50);class t{addPageAction(t,n){(0,e.Z)("Call to agent api addPageAction failed. The page action feature is not currently initialized.")}setPageViewName(t,n){(0,e.Z)("Call to agent api setPageViewName failed. The page view feature is not currently initialized.")}setCustomAttribute(t,n,r){(0,e.Z)("Call to agent api setCustomAttribute failed. The js errors feature is not currently initialized.")}noticeError(t,n){(0,e.Z)("Call to agent api noticeError failed. The js errors feature is not currently initialized.")}setUserId(t){(0,e.Z)("Call to agent api setUserId failed. The js errors feature is not currently initialized.")}setApplicationVersion(t){(0,e.Z)("Call to agent api setApplicationVersion failed. The agent is not currently initialized.")}setErrorHandler(t){(0,e.Z)("Call to agent api setErrorHandler failed. The js errors feature is not currently initialized.")}finished(t){(0,e.Z)("Call to agent api finished failed. The page action feature is not currently initialized.")}addRelease(t,n){(0,e.Z)("Call to agent api addRelease failed. The js errors feature is not currently initialized.")}start(t){(0,e.Z)("Call to agent api addRelease failed. The agent is not currently initialized.")}}var n=i(3325),r=i(234);const a=Object.values(n.D);function o(e){const t={};return a.forEach((n=>{t[n]=function(e,t){return!1!==(0,r.Mt)(t,"".concat(e,".enabled"))}(n,e)})),t}var s=i(7530);var c=i(8e3),d=i(5938),u=i(3960),l=i(385);class f extends d.W{constructor(e,t,n){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,n),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,r.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,n)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const n=l.il&&!0===(0,r.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let a;this.onAggregateImported=new Promise((e=>{a=e}));const o=async()=>{let r;try{if(n){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,3228));r=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,r))return(0,c.L)(this.agentIdentifier,this.featureName),void a(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:n}=await e(this.featureName,"aggregate");this.featAggregate=new n(this.agentIdentifier,this.aggregator,t),a(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),a(!1)}};l.il?(0,u.b)((()=>o()),!0):o()}shouldImportAgg(e,t){return e!==n.D.sessionReplay||!!r.Yu.MO&&(!1!==(0,r.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,n),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,n,r,i){var a=this.getBucket(e,t,n,i);return a.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,n){t[e]=b(n,t[e])})),t}(r,a.metrics),a}merge(e,t,n,r,i){var a=this.getBucket(e,t,r,i);if(a.metrics){var o=a.metrics;o.count+=n.count,(0,v.D)(n,(function(e,t){if("count"!==e){var r=o[e],i=n[e];i&&!i.c?o[e]=b(i.t,r):o[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,o[e])}}))}else a.metrics=n}storeMetric(e,t,n,r){var i=this.getBucket(e,t,n);return i.stats=b(r,i.stats),i}getBucket(e,t,n,r){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:n||{}},r&&(i.custom=r)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},n="",r=!1,i=0;i<e.length;i++)t[n=e[i]]=w(this.aggregatedData[n]),t[n].length&&(r=!0),delete this.aggregatedData[n];return r?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function w(e){return"object"!=typeof e?[]:(0,v.D)(e,A)}function A(e,t){return t}var _=i(8632),x=i(4402),D=i(4351);var k=i(5546),E=i(7956),j=i(3239),T=i(7894),S=i(9251);class N extends f{static featureName=S.t;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,S.t,n),l.il&&((0,E.N)((()=>(0,k.p)("docHidden",[(0,T.z)()],void 0,S.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,k.p)("winPagehide",[(0,T.z)()],void 0,S.t,this.ee))),this.importAggregator())}}var C=i(3081);class P extends f{static featureName=C.t9;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,C.t9,n),this.importAggregator()}}new class extends t{constructor(t){let n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=n,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),Object.assign(this,(0,s.j)(this.agentIdentifier,t,t.loaderType||"agent")),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,r.C5)(this.agentIdentifier),init:(0,r.P_)(this.agentIdentifier),loader_config:(0,r.DL)(this.agentIdentifier),runtime:(0,r.OP)(this.agentIdentifier)}}run(){const t="features";try{const r=o(this.agentIdentifier),i=[...this.desiredFeatures];i.sort(((e,t)=>n.p[e.featureName]-n.p[t.featureName])),i.forEach((t=>{if(r[t.featureName]||t.featureName===n.D.pageViewEvent){const i=function(e){switch(e){case n.D.ajax:return[n.D.jserrors];case n.D.sessionTrace:return[n.D.ajax,n.D.pageViewEvent];case n.D.sessionReplay:return[n.D.sessionTrace];case n.D.pageViewTiming:return[n.D.pageViewEvent];default:return[]}}(t.featureName);i.every((e=>r[e]))||(0,e.Z)("".concat(t.featureName," is enabled but one or more dependent features has been disabled (").concat((0,D.P)(i),"). This may cause unintended consequences or missing data...")),this.features[t.featureName]=new t(this.agentIdentifier,this.sharedAggregator)}})),(0,_.Qy)(this.agentIdentifier,this.features,t)}catch(n){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",n);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.[t],delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}addToTrace(t){(0,e.Z)("Call to agent api addToTrace failed. The session trace feature is not currently initialized.")}setCurrentRouteName(t){(0,e.Z)("Call to agent api setCurrentRouteName failed. The spa feature is not currently initialized.")}interaction(){(0,e.Z)("Call to agent api interaction failed. The spa feature is not currently initialized.")}}({features:[p,N,P],loaderType:"lite"})})()})();</script>
+<script type="application/ld+json">{
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": "1",
+            "name": "Home",
+            "item": "https://www.dshs.texas.gov/"
+          },{
+              "@type": "ListItem",
+              "position": "2",
+              "name": "Page Not Found"
+            }]}</script>
+<link rel="icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.dshs.texas.gov/page-not-found" />
+<link rel="alternate" hreflang="es" href="https://www.dshs.texas.gov/es/page-not-found" />
+
+    <title>Page Not Found | Texas DSHS</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_6XuhdsI17MuoKxjG0BaPXwYLq1Jx7TnfFcAhFKU0cP0.css" />
+<link rel="stylesheet" media="all" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_OHUbPhfFQj0BHhqoh56mYQsZJB46zkXw7uKwBG53xgY.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_ydr-NAaePjb4u811yJzqKe6p08EEvWDbOX984cdJu84.css" />
+<link rel="stylesheet" media="all" href="//cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" media="all" href="//use.fontawesome.com/releases/v5.13.0/css/all.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_f9aCCDPsOxZ-tpmTlwRLMs3z68HNSII-rZm5UAX86LI.css" />
+<link rel="stylesheet" media="all" href="//cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_RE3xuIZ3xPlbb4j0n3clMQ4RamhwZrpfLlWcFgDjiaA.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_Y4H_4BqmgyCtG7E7YdseTs2qvy9C34c51kBamDdgark.css" />
+<link rel="stylesheet" media="all" href="https://use.typekit.net/rjh1asp.css" />
+
+    
+  </head>
+  <body class="layout-no-sidebars path-sites node--type-error-page">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page" class="home-page">
+    <!-- Header -- Begin -->
+<header id="header" class="header-front header" role="banner" aria-label="Site header">
+            <div class="alert-bar-region">
+          <section class="region region-alert">
+    <div id="block-wcmsalertbarblock" class="block block-wcms-alert-bar block-wcms-alert-bar-block">
+  
+    
+      <div class="content">
+      <div class="clear-both wcms-alert-bars">
+            <div class="red">
+                  </div>
+            <div class="yellow">
+                  </div>
+            <div class="blue">
+                  </div>
+    </div>
+
+    </div>
+  </div>
+
+  </section>
+
+      </div>
+              <nav  class="navbar navbar-top" id="navbar-top" aria-label="Top level navigation with language selection, share links and search">
+        <div class="navbar-top-content">
+          <div class="navbar-top-content-left">
+              <section class="region region-language">
+    
+  </section>
+
+              <section class="region region-top-menu">
+    <nav role="navigation" aria-labelledby="block-topmenu-menu" class="block block-menu navigation menu--top-menu">
+            
+  <div  class="visually-hidden">Top Menu</div>
+  
+
+        
+              <ul block="topmenu" region="top_menu" class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/programs-directory" class="nav-link nav-link--programs-directory" data-drupal-link-system-path="node/396">Programs</a>
+              </li>
+                <li class="nav-item">
+                <a href="/health-topics" class="nav-link nav-link--health-topics" data-drupal-link-system-path="health-topics">A-Z Index</a>
+              </li>
+                <li class="nav-item">
+                <a href="/news-alerts" class="nav-link nav-link--news-alerts" data-drupal-link-system-path="node/281">News &amp; Alerts</a>
+              </li>
+                <li class="nav-item">
+                <a href="/about-dshs/legislative-information" class="nav-link nav-link--about-dshs-legislative-information" title="Legislative Information" data-drupal-link-system-path="node/4476">Legislative Information</a>
+              </li>
+                <li class="nav-item">
+                <a href="/contact-us" class="nav-link nav-link--contact-us" data-drupal-link-system-path="node/421">Contact Us</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+          </div>
+          <div class="navbar-top-content-right">
+              <section class="region region-media">
+    <div class="block-social-media-links block block-social-media-links-block">
+  
+    
+      <div class="content">
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/TexasDSHS"  title="Click here to visit facebook" >
+        <span class="sr-only">Click here to visit facebook</span>
+        <span class='fa fa-facebook fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://www.twitter.com/TexasDSHS"  title="Click here to visit twitter" >
+        <span class="sr-only">Click here to visit twitter</span>
+        <span class='fa fa-twitter fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/TexasDSHS"  title="Click here to visit instagram" >
+        <span class="sr-only">Click here to visit instagram</span>
+        <span class='fa fa-instagram fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--website" href="https://service.govdelivery.com/accounts/TXHHSC/subscriber/new?qsp=328"  title="Click here to visit website" >
+        <span class="sr-only">Click here to visit website</span>
+        <span class='fa fa-home fa-2x'></span>
+      </a>
+
+          </li>
+  </ul>
+
+    </div>
+  </div>
+<div class="views-exposed-form d-lg-flex ds-xl-flex d-md-none d-sm-none d-xs-none acquia-search-home block block-views block-views-exposed-filter-blockacquia-search-block-1" data-drupal-selector="views-exposed-form-acquia-search-block-1" id="block-exposedformacquia-searchblock-1">
+  
+    
+      <div class="content">
+      
+<form region="media" action="/search/site" method="get" id="views-exposed-form-acquia-search-block-1" accept-charset="UTF-8" class="views-exposed-form-acquia-search-block-1">
+  <div class="form-row">
+  
+
+
+
+
+
+  <div class="js-form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-content form-item-content form-no-label mb-3">
+                    <input placeholder="Enter your search term..." data-drupal-selector="edit-content" data-search-api-autocomplete-search="acquia_search" class="form-autocomplete form-control" data-autocomplete-path="/search_api_autocomplete/acquia_search?display=block_1&amp;&amp;filter=content" type="text" id="edit-content" name="content" value="" size="30" maxlength="128" />
+
+                      </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper mb-3" id="edit-actions"><button class="fa fa-search button js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit-acquia-search" type="submit" id="edit-submit-acquia-search" value=""></button>
+</div>
+
+</div>
+
+</form>
+
+    </div>
+  </div>
+
+  </section>
+
+          </div>
+        </div>
+      </nav>
+        <nav class="navbar navbar-expand-lg navbar-main" id="navbar-main" aria-label="Primary menu navigation">
+      <div class="navbar-main-wrapper">
+              <div class="header-top-container">
+        <div class="logo-container">
+                <a href="/" title="Home page link" rel="home" class="navbar-brand">
+              <img src="/sites/default/files/logo.png" alt="Texas DSHS logo" class="img-fluid d-inline-block align-top" />
+            
+    </a>
+    
+
+        </div>
+        <div class="d-xl-none m-auto mobile-search-container">
+          <button class="ms navbar-toggler m-auto" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#CollapsingSearchbar" aria-controls="CollapsingSearchbar"
+                  aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fa fa-search"></i>
+          </button>
+        </div>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#CollapsingNavbar" aria-controls="CollapsingNavbar"
+                  aria-expanded="false" aria-label="Toggle navigation">
+                        <div class="animated-toggler"><span></span><span></span><span></span><span></span></div>
+          </button>
+                </div>
+                <div class="d-xl-none collapse search-mobile" id="CollapsingSearchbar">
+          <div class="views-exposed-form block block-views block-views-exposed-filter-blockacquia-search-block-1" data-drupal-selector="views-exposed-form-acquia-search-block-1">
+  
+    
+      <div class="content">
+      
+<form action="/search/site" method="get" id="views-exposed-form-acquia-search-block-1" accept-charset="UTF-8" class="views-exposed-form-acquia-search-block-1">
+  <div class="form-row">
+  
+
+
+
+
+
+  <div class="js-form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-content form-item-content form-no-label mb-3">
+                    <input placeholder="Enter your search term..." data-drupal-selector="edit-content" data-search-api-autocomplete-search="acquia_search" class="form-autocomplete form-control" data-autocomplete-path="/search_api_autocomplete/acquia_search?display=block_1&amp;&amp;filter=content" type="text" id="edit-content--2" name="content" value="" size="30" maxlength="128" />
+
+                      </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper mb-3" id="edit-actions--2"><button class="fa fa-search button js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit-acquia-search-2" type="submit" id="edit-submit-acquia-search--2" value=""></button>
+</div>
+
+</div>
+
+</form>
+
+    </div>
+  </div>
+
+        </div>
+                            <div class="collapse navbar-collapse mobile-navbar" id="CollapsingNavbar">
+              <div id="block-mainnavigation" class="block block-we-megamenu block-we-megamenu-blockmain">
+  
+    
+      <div class="content">
+      <div class="region-we-mega-menu">
+	<a href="" class="navbar-toggle collapsed">
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	</a>
+	<nav  class="main navbar navbar-default navbar-we-mega-menu mobile-collapse click-action" data-menu-name="main" data-block-theme="dshs_theme" data-style="Default" data-animation="None" data-delay="" data-duration="" data-autoarrow="" data-alwayshowsubmenu="" data-action="hover" data-mobile-collapse="0">
+	  <div class="container-fluid">
+	    <ul  class="we-mega-menu-ul nav nav-tabs">
+  <li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="08c9c979-fc45-4773-8ded-cc2f5b445a3b" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/services" target="">
+      Services    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="800" data-class="" style="width: 800px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span2 replace-title" data-element-type="we-mega-menu-col" data-width="2" data-block="menutitle" data-blocktitle="1" data-hidewhencollapse="" data-class="replace-title">
+    <div class="type-of-block"><div class="block-inner"><h2>Menu Title</h2><div class="block block-block-content block-block-contentcc700c83-17b8-49c2-8f70-b13ba0432c42">
+  
+    
+      <div class="content">
+      
+    </div>
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span2" data-element-type="we-mega-menu-col" data-width="2" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="Vital Statistics" data-id="dd01e6e5-c659-4864-8b16-8cd4736f7b76" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="Vital Statistics" href="/vital-statistics" target="">
+      Vital Statistics    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="Birth Records" data-id="11077ec4-bcb0-4c01-a29b-244312b6f443" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="Birth Records" href="/vital-statistics/birth-records" target="">
+      Birth Records    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="e6d302aa-2bef-40e0-ae22-2877e8dcf8b2" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/vital-statistics/death-records" target="">
+      Death Records    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="373dc424-3e5f-4533-9eb4-457fa26c02b4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/vital-statistics/marriage-divorce-records" target="">
+      Marriage &amp; Divorce Records    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span2" data-element-type="we-mega-menu-col" data-width="2" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="Laboratory Services" data-id="7da2d7fd-5ab0-4a53-b20a-a3cb06badd96" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="Laboratory Services" href="/laboratory-services" target="">
+      Laboratory Services    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="3d9a17c7-5213-42c3-87f9-97c652595c97" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/laboratory-services/directory-dshs-laboratory-tests-specimen-requirements" target="">
+      Menu of Services    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="Programs &amp; Laboratories" data-id="cf821098-4b2c-4869-8242-9bb656c84554" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="Programs &amp;amp; Laboratories" href="/laboratory-services/programs-laboratories" target="">
+      Programs &amp; Laboratories    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="05a77856-5ae2-49db-8c87-06d924cff568" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/laboratory-services/laboratory-testing-services-manual-local-health-department-laboratories" target="_self">
+      Local Health Department Labs    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="e83b5044-c372-479e-9b9a-17fb3daadeee" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/laboratory-services/laboratory-testing-services-manual-guidelines-specimen-collection-submission" target="">
+      Specimen Collection Guidelines    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span2" data-element-type="we-mega-menu-col" data-width="2" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="Regional &amp; Local Health" data-id="76c434fa-8897-4524-a849-aa0e5d945e86" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="Regional &amp;amp; Local Health" href="/regional-local-health-operations" target="">
+      Regional &amp; Local Health    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="f572a5b6-1167-40ab-a156-12ef443ed408" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/regional-local-health-operations/public-health-regions" target="_self">
+      Public Health Regions    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="b1f32050-1e59-40ad-8c34-f23382671a5f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/border-health" target="_self">
+      Office of Border Public Health    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="b3026ef7-c4dd-418a-98a7-4fe5687d50df" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/regional-local-health-operations/texas-center-infectious-disease" target="_self">
+      Texas Center for Infectious Disease    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="8219a141-1906-4899-b7bb-aff4ec78c720" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/regional-local-health-operations/public-health-nursing" target="_self">
+      Public Health Nursing    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="f74b1d93-2220-4918-9bd5-a134bad77d70" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/about-the-center-health-emergency-preparedness-response" target="_self">
+      Center for Health Emergency Preparedness &amp; Response    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="b7f1f4ac-694c-4abb-8b5d-35b7a882b2a0" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+            <div class="dropdown-title">Research, Funding, &amp; Educational Resources</div>
+        <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="27f081ea-9d03-485d-857b-d4163f3d1486" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="https://www.dshs.texas.gov/office-practice-learning/continuing-education-service" target="_self">
+      Continuing Education Service    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="c2f59f21-5d54-45f3-b3e0-3ebab5df5854" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/library-information-science-program/audiovisual-library/how-to-borrow-materials" target="">
+      How to Borrow Materials    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="https://www.dshs.texas.gov/office-practice-learning/institutional-review-board-irb" data-id="954bcb05-a8b6-4a72-bbb1-93b815d2ec00" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="https://www.dshs.texas.gov/office-practice-learning/institutional-review-board-irb" href="https://www.dshs.texas.gov/office-practice-learning/institutional-review-board-irb" target="_self">
+      Institutional Review Board    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="4ff0b0fb-c19f-4b56-bb02-14e07a2584c9" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/library-information-science-program" target="">
+      Library and Information Science Program    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span12 view-all" data-element-type="we-mega-menu-col" data-width="12" data-block="viewallservices" data-blocktitle="0" data-hidewhencollapse="" data-class="view-all">
+    <div class="type-of-block"><div class="block-inner"><div class="block block-block-content block-block-content7e65350e-0b50-4c9c-a26f-eba862c8937a block-viewallservices">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"  class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item" id="field--name-body"><p><a href="#">View all services</a></p>
+</div>
+      
+    </div>
+  </div>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="dbfdba99-90da-43d6-8b78-59bebdbaaf35" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/health-wellness" target="">
+      Health &amp; Wellness    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="800" data-class="" style="width: 800px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span3 replace-title" data-element-type="we-mega-menu-col" data-width="3" data-block="menutitle" data-blocktitle="1" data-hidewhencollapse="" data-class="replace-title">
+    <div class="type-of-block"><div class="block-inner"><h2>Menu Title</h2><div class="block block-block-content block-block-contentcc700c83-17b8-49c2-8f70-b13ba0432c42">
+  
+    
+      <div class="content">
+      
+    </div>
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span3" data-element-type="we-mega-menu-col" data-width="3" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="35d59e3a-c143-4de6-9b4e-e85ce4ec5141" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+            <div class="dropdown-title">Family Health</div>
+        <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="10ea940f-5121-400a-bf8d-c96acc59bbd2" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/maternal-child-health" target="_self">
+      Maternal &amp; Child Health    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="Emergency Preparedness" data-id="7227fc02-9dac-47f2-b884-f1ae41f83e90" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="Emergency Preparedness" href="/about-the-center-health-emergency-preparedness-response" target="">
+      Emergency Preparedness    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="6df6e6e3-38d6-453f-ae67-5c72b6c16f81" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/dental-health" target="">
+      Dental Health    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="82dd3648-af0d-4307-8766-ee1a11c6511e" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/genetics" target="">
+      Genetic Services    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="03380238-a7d7-4a77-a3a7-5526b7103da4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/injury-prevention" target="_self">
+      Injury Prevention    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="63c7fc65-c833-4b24-b462-c9f6604158bd" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/obesity-texas" target="_self">
+      Obesity in Texas    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span3" data-element-type="we-mega-menu-col" data-width="3" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="50a6c8e6-a777-463c-8398-f4a14d66a0d5" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+            <div class="dropdown-title">Healthy Living</div>
+        <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="3c2351bf-adbb-4a54-b12b-716fdb3028a0" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/tobacco" target="">
+      Tobacco    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="70331228-9d3b-41fd-966d-c5741dd6cbc9" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/vaping" target="">
+      Vaping    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="d166a883-2e2a-462d-8aae-d80faff765ac" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/community-worksite-wellness-home" target="">
+      Community &amp; Worksite Wellness    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span3" data-element-type="we-mega-menu-col" data-width="3" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="78ee72a3-27d5-48d7-9f0a-f61f04dc4ff4" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/texas-school-health" target="">
+      School Health    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="8efe5fe6-92a7-4d2f-9a7e-e9917c604e79" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/immunization-unit" target="">
+      Immunizations    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="c9d790ae-70fc-445c-ad5e-d75a2f5acbd1" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/vision-hearing-screening" target="">
+      Vision &amp; Hearing Screenings    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="c33e2972-0183-4136-8567-86fd6b7cd4ef" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/texas-school-health/texas-guide-school-health-services/office-resources-texas-school-health" target="">
+      Office Resources    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="37e3d8ef-b61e-4f03-8494-a81cf589cad7" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/texas-school-health/coordinated-school-health/school-based-health-centers" target="">
+      School-Based Health Centers    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span12 view-all" data-element-type="we-mega-menu-col" data-width="12" data-block="viewallservices" data-blocktitle="0" data-hidewhencollapse="" data-class="view-all">
+    <div class="type-of-block"><div class="block-inner"><div class="block block-block-content block-block-content7e65350e-0b50-4c9c-a26f-eba862c8937a block-viewallservices">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"  class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item" id="field--name-body"><p><a href="#">View all services</a></p>
+</div>
+      
+    </div>
+  </div>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="0f2fccf4-a034-42ab-88a7-6ee13bf62da1" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/diseases-conditions" target="">
+      Diseases &amp; Conditions    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="800" data-class="" style="width: 800px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span2 replace-title" data-element-type="we-mega-menu-col" data-width="2" data-block="menutitle" data-blocktitle="1" data-hidewhencollapse="" data-class="replace-title">
+    <div class="type-of-block"><div class="block-inner"><h2>Menu Title</h2><div class="block block-block-content block-block-contentcc700c83-17b8-49c2-8f70-b13ba0432c42">
+  
+    
+      <div class="content">
+      
+    </div>
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span2" data-element-type="we-mega-menu-col" data-width="2" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="c1353e54-283b-4256-9b95-5ab10de781ac" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+            <div class="dropdown-title">Infectious Diseases</div>
+        <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="4e05ff4c-8c07-466b-a87e-ec947c35462d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/covid-19-home" target="">
+      COVID-19 (Coronavirus Disease 2019)    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="da64b9c5-f68d-4ff1-9f4e-d69fb8f1f1aa" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/hiv-std-program" target="">
+      HIV/Sexually Transmitted Diseases    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="9d54e64e-999d-4caa-8630-0638b5398415" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/vaccine-preventable-diseases" target="">
+      Vaccine-Preventable Diseases    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="a91a00a9-5d8b-4c45-a38e-fc28e50e2ccc" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/tuberculosis-tb" target="">
+      Tuberculosis (TB)    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="26cc6152-7a5f-40aa-9f96-a081e165d036" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/idps-home/zoonosis-control" target="_self">
+      Zoonosis Control    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span2" data-element-type="we-mega-menu-col" data-width="2" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="23bf0475-25e5-41fc-b2d2-6eecf3026a20" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+            <div class="dropdown-title">Chronic Diseases</div>
+        <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="aed6f447-10c1-4043-a583-8b57f2b4767f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/heart-disease-stroke" target="">
+      Heart Disease &amp; Stroke    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="4f91b771-67af-48ef-b5b3-b93278facf45" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/diabetes" target="">
+      Diabetes    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="f4e973df-dc3a-4f35-ab0e-185b15d6d763" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/asthma" target="">
+      Asthma    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="edaf6980-c1f0-4c4b-b20c-75ba59b65058" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/alzheimers-disease" target="">
+      Alzheimer’s    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span2" data-element-type="we-mega-menu-col" data-width="2" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="b97fc2f7-b275-462d-b503-3687ca6e36a0" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/texas-comprehensive-cancer-control-program" target="">
+      Texas Comprehensive Cancer Control Program     </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="35aab7c2-20aa-470b-bfe0-da8f8a52e2d3" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/texas-comprehensive-cancer-control-program/cancer-texas" target="">
+      Cancer in Texas     </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="c5ee7199-bb9b-4428-af8d-cfbe90e68ed5" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/texas-comprehensive-cancer-control-program/cancer-resources-health-professionals" target="">
+      Cancer Resources for Health Professionals    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="294e8305-939b-48a9-94a2-f7676966728e" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/texas-comprehensive-cancer-control-program/resources-cancer-patients-caregivers-families" target="_self">
+      Resources for Cancer Patients, Caregivers and Families    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="5af37bed-5641-4050-a454-823c365bdd2c" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+            <div class="dropdown-title">Newborn Screening Conditions</div>
+        <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="fc071c3c-5c93-4fab-a4c0-efebb129f67c" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/newborn-screening-program" target="_self">
+      Newborn Screening    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="266ad885-611b-4e02-89a3-b1ea53b792d5" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/newborn-screening-program/sickle-cell-disease" target="">
+      Sickle Cell Disease    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="83498bc1-abcf-4d06-b63c-269f66c3961a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/newborn-screening-program/sickle-cell-disease/more-about-sickle-cell/hemoglobin-disorders" target="">
+      Hemoglobin Disorders    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="bb70f9e2-a641-4466-b497-7297cab30b63" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/newborn-screening-program/critical-congenital-heart-disease-cchd" target="">
+      Critical Congenital Heart Disease    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="e108b98d-1346-4418-8b88-d26c2abb44a8" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/newborn-screening-program/newborn-screening-parent-resources/phenylketonuria-pku" target="">
+      Phenylketonuria (PKU)    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span12 view-all" data-element-type="we-mega-menu-col" data-width="12" data-block="viewallservices" data-blocktitle="0" data-hidewhencollapse="" data-class="view-all">
+    <div class="type-of-block"><div class="block-inner"><div class="block block-block-content block-block-content7e65350e-0b50-4c9c-a26f-eba862c8937a block-viewallservices">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"  class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item" id="field--name-body"><p><a href="#">View all services</a></p>
+</div>
+      
+    </div>
+  </div>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="f7b64a22-a8b3-47a8-8583-fe6673532dc3" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/business-compliance" target="">
+      Business &amp; Compliance    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="800" data-class="" style="width: 800px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span3 replace-title" data-element-type="we-mega-menu-col" data-width="3" data-block="menutitle" data-blocktitle="1" data-hidewhencollapse="" data-class="replace-title">
+    <div class="type-of-block"><div class="block-inner"><h2>Menu Title</h2><div class="block block-block-content block-block-contentcc700c83-17b8-49c2-8f70-b13ba0432c42">
+  
+    
+      <div class="content">
+      
+    </div>
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span3" data-element-type="we-mega-menu-col" data-width="3" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="f63e6d4a-7589-4f08-8c07-b5e87267b725" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+            <div class="dropdown-title">Consumer Protection</div>
+        <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="44e2a754-5989-41e6-af79-9231d8c3dc44" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/foods" target="">
+      Food Manufacturers, Wholesalers, and Warehouses     </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="382109da-4d88-4cae-8713-97cb1f76f293" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/drug-manufacturers-distributors" target="">
+      Drug Manufacturers &amp; Distributors    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="508bcf5b-b31d-4b27-a562-0fcca3072ef8" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/environmental-hazards-programs" target="">
+      Environmental Hazards Programs    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="30669f27-3a9c-4a41-a703-db5399415756" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/asbestos-program" target="">
+      Asbestos Safety    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="Explore how the Asbestos Hazard Emergency Response Act (AHERA) is designed to protect students, educators, and staff from exposure to asbestos in schools. " data-id="00def56c-a194-4c56-8084-ec2e3817cf67" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="Explore how the Asbestos Hazard Emergency Response Act (AHERA) is designed to protect students, educators, and staff from exposure to asbestos in schools. " href="https://www.dshs.texas.gov/asbestos-hazard-emergency-response-act-ahera" target="_self">
+      Asbestos Hazard Emergency Response Act (AHERA)    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="Learn more about Asbestos safety in Texas and how health care professionals provide direct services to prevent occupational and environmental diseases. " data-id="0d3c9d47-e051-4f12-9cc0-3b3e0947502f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="Learn more about Asbestos safety in Texas and how health care professionals provide direct services to prevent occupational and environmental diseases. " href="/asbestos-program" target="_self">
+      Asbestos Program     </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span3" data-element-type="we-mega-menu-col" data-width="3" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="6d346a79-8d14-4915-8b49-cafb9eaac268" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+            <div class="dropdown-title">Licenses, Registrations &amp; Permits</div>
+        <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="d8b9645c-29f0-450d-9e71-b0224338c62f" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/dshs-ems-trauma-systems/ems-personnel-certification-licensure" target="">
+      Emergency Medical Services (EMS) Licensure    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="450fa2aa-ea48-4d5a-9221-e8618c2f10d1" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/tattoo-body-piercing-studios/licensing-requirements-tattoo-body-piercing-studios" target="">
+      Tattoo &amp; Body Piercing    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="a66dffe7-d560-4905-bdf5-4ba9b8ac0e0d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/licensing-certified-food-manager-training-programs" target="">
+      Food Manager    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="46be971b-de42-49d0-9a48-65c0ec5e4a08" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/licensing-food-handler-training-programs" target="_self">
+      Food Handler    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="931353e5-7b27-4f13-a369-f86d515cb4fd" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/asbestos-program" target="">
+      Asbestos Safety    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span3" data-element-type="we-mega-menu-col" data-width="3" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="Legislative Information" data-id="f9277bd8-3d33-411b-afd3-c42cec88eaa9" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="Legislative Information" href="/about-dshs/legislative-information" target="_self">
+      Legislative Information    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="Legislative Reports" data-id="0bbbe758-11bb-4fcc-9735-121bd58c9886" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="Legislative Reports" href="/about-dshs/legislative-information/legislative-reports" target="">
+      Legislative Reports    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span12 view-all" data-element-type="we-mega-menu-col" data-width="12" data-block="viewallservices" data-blocktitle="0" data-hidewhencollapse="" data-class="view-all">
+    <div class="type-of-block"><div class="block-inner"><div class="block block-block-content block-block-content7e65350e-0b50-4c9c-a26f-eba862c8937a block-viewallservices">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"  class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item" id="field--name-body"><p><a href="#">View all services</a></p>
+</div>
+      
+    </div>
+  </div>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="7a8a8856-2a72-4669-8000-a9dfad4cf9c6" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/data-case-reporting" target="">
+      Data &amp; Case Reporting    </a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="800" data-class="" style="width: 800px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span4 replace-title" data-element-type="we-mega-menu-col" data-width="4" data-block="menutitle" data-blocktitle="1" data-hidewhencollapse="" data-class="replace-title">
+    <div class="type-of-block"><div class="block-inner"><h2>Menu Title</h2><div class="block block-block-content block-block-contentcc700c83-17b8-49c2-8f70-b13ba0432c42">
+  
+    
+      <div class="content">
+      
+    </div>
+  </div>
+</div></div>
+
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="875b2216-2ec7-4f64-9e6b-b3e519158156" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+            <div class="dropdown-title">Health Statistics &amp; Data</div>
+        <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="This site contains public data and statistics on various health topics" data-id="5cfadd2e-655d-4f02-b0b0-bce8af877de0" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="This site contains public data and statistics on various health topics" href="https://healthdata.dshs.texas.gov/" target="">
+      Texas Health Data    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="d2f32f1c-d83f-49ee-bf42-25ae401c88a0" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/center-health-statistics" target="_self">
+      Center for Health Statistics    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="bf9fc947-34d9-4f1d-b440-3d196ed5a060" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/vital-statistics-data" target="">
+      Vital Statistics Data    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="77f0c20b-819e-435a-88da-5153e3cb0ef4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/texas-center-nursing-workforce-studies" target="">
+      Nursing Workforce Research    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span4" data-element-type="we-mega-menu-col" data-width="4" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li dropdown-menu we-mega-menu-group" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="5d960bd7-5aeb-4ca1-ac1f-8a4b6c8ae535" data-submenu="1" hide-sub-when-collapse="" data-group="1" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+            <div class="dropdown-title">Reporting</div>
+        <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="1d02abd1-e8e6-45bc-8281-e7169edd6ed9" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/notifiable-conditions" target="_self">
+      Notifiable Conditions    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="a38c8312-9e08-47f1-bd89-89c3ea2c5eb1" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/national-electronic-disease-surveillance-system-nedss" target="">
+      National Electronic Disease Surveillance System (NEDSS)    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="5b6fd088-f872-4b18-9d99-8c007f33e02a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/texas-health-care-information-collection" target="">
+      Health Care Information Collection (THCIC)    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="f50e35e1-b0df-4cb7-b6fe-6fbdc27ecaaa" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li dropdown-title-link" title="" href="/texas-syndromic-surveillance-txs2" target="">
+      Texas Syndromic Surveillance (TxS2)    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+<div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="1">
+  <div  class="we-mega-menu-col span12 view-all" data-element-type="we-mega-menu-col" data-width="12" data-block="viewallservices" data-blocktitle="0" data-hidewhencollapse="" data-class="view-all">
+    <div class="type-of-block"><div class="block-inner"><div class="block block-block-content block-block-content7e65350e-0b50-4c9c-a26f-eba862c8937a block-viewallservices">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"  class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item" id="field--name-body"><p><a href="#">View all services</a></p>
+</div>
+      
+    </div>
+  </div>
+</div></div>
+
+</div>
+
+</div>
+
+  </div>
+</div>
+</li>
+</ul>
+	  </div>
+	</nav>
+</div>
+    </div>
+  </div>
+<nav role="navigation" aria-labelledby="block-dshs-theme-main-menu-menu" id="block-dshs-theme-main-menu" class="d-xl-none block block-menu navigation menu--main">
+            
+  <div class="visually-hidden" id="block-dshs-theme-main-menu-menu">Main navigation</div>
+  
+
+        
+              <ul block="dshs_theme_main_menu" region="primary_menu" class="clearfix nav navbar-nav">
+        
+                    <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/services" class="nav-link dropdown-toggle nav-link--services" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/45871">Services</a>
+                                  <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <a href="/vital-statistics" target="_self" title="Vital Statistics" data-drupal-link-system-path="node/47146">Vital Statistics</a>
+          <a href="/vital-statistics" class="dropdown-toggle nav-link--vital-statistics" target="_self" title="Vital Statistics" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/47146"></a>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/vital-statistics/birth-records" class="nav-link--vital-statistics-birth-records" title="Birth Records" data-drupal-link-system-path="node/35906">Birth Records</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/vital-statistics/death-records" class="nav-link--vital-statistics-death-records" data-drupal-link-system-path="node/35671">Death Records</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/vital-statistics/marriage-divorce-records" class="nav-link--vital-statistics-marriage-divorce-records" data-drupal-link-system-path="node/44536">Marriage &amp; Divorce Records</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <a href="/laboratory-services" target="_self" title="Laboratory Services" data-drupal-link-system-path="node/46816">Laboratory Services</a>
+          <a href="/laboratory-services" class="dropdown-toggle nav-link--laboratory-services" target="_self" title="Laboratory Services" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/46816"></a>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/laboratory-services/directory-dshs-laboratory-tests-specimen-requirements" class="nav-link--laboratory-services-directory-dshs-laboratory-tests-specimen-requirements" data-drupal-link-system-path="node/35626">Menu of Services</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/laboratory-services/programs-laboratories" class="nav-link--laboratory-services-programs-laboratories" title="Programs &amp; Laboratories" data-drupal-link-system-path="node/8851">Programs &amp; Laboratories</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/laboratory-services/laboratory-testing-services-manual-local-health-department-laboratories" class="nav-link--laboratory-services-laboratory-testing-services-manual-local-health-department-laboratories" data-drupal-link-system-path="node/40716">Local Health Department Labs</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/laboratory-services/laboratory-testing-services-manual-guidelines-specimen-collection-submission" class="nav-link--laboratory-services-laboratory-testing-services-manual-guidelines-specimen-collection-submission" data-drupal-link-system-path="node/40681">Specimen Collection Guidelines</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <a href="/regional-local-health-operations" target="_self" title="Regional &amp; Local Health" data-drupal-link-system-path="node/41921">Regional &amp; Local Health</a>
+          <a href="/regional-local-health-operations" class="dropdown-toggle nav-link--regional-local-health-operations" target="_self" title="Regional &amp; Local Health" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/41921"></a>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/regional-local-health-operations/public-health-regions" class="nav-link--regional-local-health-operations-public-health-regions" data-drupal-link-system-path="node/38031">Public Health Regions</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/border-health" class="nav-link--border-health" data-drupal-link-system-path="node/4266">Office of Border Public Health</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/regional-local-health-operations/tcid" class="nav-link--regional-local-health-operations-tcid" data-drupal-link-system-path="node/42636">Texas Center for Infectious Disease</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/regional-local-health-operations/public-health-nursing" class="nav-link--regional-local-health-operations-public-health-nursing" data-drupal-link-system-path="node/43746">Public Health Nursing</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/about-the-center-health-emergency-preparedness-response" class="nav-link--about-the-center-health-emergency-preparedness-response" data-drupal-link-system-path="node/43656">Center for Health Emergency Preparedness &amp; Response</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <span>Research, Funding, &amp; Educational Resources</span>
+          <span class="dropdown-toggle nav-link-" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"></span>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="https://www.dshs.texas.gov/office-practice-learning/continuing-education-service" class="nav-link-https--wwwdshstexasgov-office-practice-learning-continuing-education-service">Continuing Education Service</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/grant-applications-funding/grant-development-center/grantsmanship-and-nonprofit-management-resources" class="nav-link--grant-applications-funding-grant-development-center-grantsmanship-and-nonprofit-management-resources" data-drupal-link-system-path="node/44466">Events &amp; Training</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/library-information-science-program/audiovisual-library/how-to-borrow-materials" class="nav-link--library-information-science-program-audiovisual-library-how-to-borrow-materials" data-drupal-link-system-path="node/44276">How to Borrow Materials</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="https://www.dshs.texas.gov/office-practice-learning/institutional-review-board-irb" class="nav-link-https--wwwdshstexasgov-office-practice-learning-institutional-review-board-irb" title="https://www.dshs.texas.gov/office-practice-learning/institutional-review-board-irb">Institutional Review Board</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/library-information-science-program" class="nav-link--library-information-science-program" data-drupal-link-system-path="node/48476">Library and Information Science Program</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+         <li class="mobile-view-all"><a href="/services" data-drupal-link-system-path="node/45871">View all Services</a></li>
+                </ul>
+  
+                        </li>
+                
+                    <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/health-wellness" class="nav-link dropdown-toggle nav-link--health-wellness" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/3946">Health &amp; Wellness</a>
+                                  <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <span>Family Health</span>
+          <span class="dropdown-toggle nav-link-" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"></span>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/maternal-child-health" class="nav-link--maternal-child-health" data-drupal-link-system-path="node/46951">Maternal &amp; Child Health</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/about-the-center-health-emergency-preparedness-response" class="nav-link--about-the-center-health-emergency-preparedness-response" title="Emergency Preparedness" data-drupal-link-system-path="node/43656">Emergency Preparedness</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/dental-health" class="nav-link--dental-health" data-drupal-link-system-path="node/8291">Dental Health</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/genetics" class="nav-link--genetics" data-drupal-link-system-path="node/8311">Genetic Services</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/injury-prevention" class="nav-link--injury-prevention" data-drupal-link-system-path="node/5916">Injury Prevention</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/obesity-texas" class="nav-link--obesity-texas" data-drupal-link-system-path="node/8266">Obesity in Texas</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <span>Healthy Living</span>
+          <span class="dropdown-toggle nav-link-" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"></span>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/tobacco" class="nav-link--tobacco" data-drupal-link-system-path="node/8421">Tobacco</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/vaping" class="nav-link--vaping" data-drupal-link-system-path="node/36351">Vaping</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/community-worksite-wellness-home" class="nav-link--community-worksite-wellness-home" data-drupal-link-system-path="node/42506">Community &amp; Worksite Wellness</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <a href="/texas-school-health" data-drupal-link-system-path="node/8261">School Health</a>
+          <a href="/texas-school-health" class="dropdown-toggle nav-link--texas-school-health" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/8261"></a>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/immunization-unit" class="nav-link--immunization-unit" data-drupal-link-system-path="node/37831">Immunizations</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/vision-hearing-screening" class="nav-link--vision-hearing-screening" data-drupal-link-system-path="node/45686">Vision &amp; Hearing Screenings</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/texas-school-health/texas-guide-school-health-services/office-resources-texas-school-health" class="nav-link--texas-school-health-texas-guide-school-health-services-office-resources-texas-school-health" data-drupal-link-system-path="node/7726">Office Resources</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/texas-school-health/coordinated-school-health/school-based-health-centers" class="nav-link--texas-school-health-coordinated-school-health-school-based-health-centers" data-drupal-link-system-path="node/7746">School-Based Health Centers</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+         <li class="mobile-view-all"><a href="/health-wellness" data-drupal-link-system-path="node/3946">View all Health &amp; Wellness</a></li>
+                </ul>
+  
+                        </li>
+                
+                    <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/diseases-conditions" class="nav-link dropdown-toggle nav-link--diseases-conditions" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/45866">Diseases &amp; Conditions</a>
+                                  <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <span>Infectious Diseases</span>
+          <span class="dropdown-toggle nav-link-" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"></span>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/covid-19-home" class="nav-link--covid-19-home" data-drupal-link-system-path="node/48421">COVID-19 (Coronavirus Disease 2019)</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/hiv-std-program" class="nav-link--hiv-std-program" data-drupal-link-system-path="node/44621">HIV/Sexually Transmitted Diseases</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/vaccine-preventable-diseases" class="nav-link--vaccine-preventable-diseases" data-drupal-link-system-path="node/22901">Vaccine-Preventable Diseases</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/tuberculosis-tb" class="nav-link--tuberculosis-tb" data-drupal-link-system-path="node/6231">Tuberculosis (TB)</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/idps-home/zoonosis-control" class="nav-link--idps-home-zoonosis-control" data-drupal-link-system-path="node/8281">Zoonosis Control</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <span>Chronic Diseases</span>
+          <span class="dropdown-toggle nav-link-" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"></span>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/heart-disease-stroke" class="nav-link--heart-disease-stroke" data-drupal-link-system-path="node/6276">Heart Disease &amp; Stroke</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/diabetes" class="nav-link--diabetes" data-drupal-link-system-path="node/7951">Diabetes</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/asthma" class="nav-link--asthma" data-drupal-link-system-path="node/8431">Asthma</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/alzheimers-disease" class="nav-link--alzheimers-disease" data-drupal-link-system-path="node/47136">Alzheimer’s</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <a href="/texas-comprehensive-cancer-control-program" data-drupal-link-system-path="node/37576">Texas Comprehensive Cancer Control Program </a>
+          <a href="/texas-comprehensive-cancer-control-program" class="dropdown-toggle nav-link--texas-comprehensive-cancer-control-program" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/37576"></a>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/texas-comprehensive-cancer-control-program/cancer-texas" class="nav-link--texas-comprehensive-cancer-control-program-cancer-texas" data-drupal-link-system-path="node/22441">Cancer in Texas </a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/texas-comprehensive-cancer-control-program/cancer-resources-health-professionals" class="nav-link--texas-comprehensive-cancer-control-program-cancer-resources-health-professionals" data-drupal-link-system-path="node/22416">Cancer Resources for Health Professionals</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/texas-comprehensive-cancer-control-program/resources-cancer-patients-caregivers-families" class="nav-link--texas-comprehensive-cancer-control-program-resources-cancer-patients-caregivers-families" data-drupal-link-system-path="node/30706">Resources for Cancer Patients, Caregivers and Families</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <span>Newborn Screening Conditions</span>
+          <span class="dropdown-toggle nav-link-" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"></span>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/newborn-screening-program" class="nav-link--newborn-screening-program" data-drupal-link-system-path="node/39986">Newborn Screening</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/newborn-screening-program/sickle-cell-disease" class="nav-link--newborn-screening-program-sickle-cell-disease" data-drupal-link-system-path="node/30251">Sickle Cell Disease</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/newborn-screening-program/sickle-cell-disease/more-about-sickle-cell/hemoglobin-disorders" class="nav-link--newborn-screening-program-sickle-cell-disease-more-about-sickle-cell-hemoglobin-disorders" data-drupal-link-system-path="node/22561">Hemoglobin Disorders</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/newborn-screening-program/critical-congenital-heart-disease-cchd" class="nav-link--newborn-screening-program-critical-congenital-heart-disease-cchd" data-drupal-link-system-path="node/22651">Critical Congenital Heart Disease</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/newborn-screening-program/newborn-screening-parent-resources/phenylketonuria-pku" class="nav-link--newborn-screening-program-newborn-screening-parent-resources-phenylketonuria-pku" data-drupal-link-system-path="node/22531">Phenylketonuria (PKU)</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+         <li class="mobile-view-all"><a href="/diseases-conditions" data-drupal-link-system-path="node/45866">View all Diseases &amp; Conditions</a></li>
+                </ul>
+  
+                        </li>
+                
+                    <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/business-compliance" class="nav-link dropdown-toggle nav-link--business-compliance" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/161">Business &amp; Compliance</a>
+                                  <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <span>Consumer Protection</span>
+          <span class="dropdown-toggle nav-link-" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"></span>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/foods" class="nav-link--foods" data-drupal-link-system-path="node/29836">Food Manufacturers, Wholesalers, and Warehouses </a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/drug-manufacturers-distributors" class="nav-link--drug-manufacturers-distributors" data-drupal-link-system-path="node/4561">Drug Manufacturers &amp; Distributors</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/environmental-hazards-programs" class="nav-link--environmental-hazards-programs" data-drupal-link-system-path="node/26856">Environmental Hazards Programs</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/asbestos-program" class="nav-link--asbestos-program" data-drupal-link-system-path="node/26716">Asbestos Safety</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="https://www.dshs.texas.gov/asbestos-hazard-emergency-response-act-ahera" class="nav-link-https--wwwdshstexasgov-asbestos-hazard-emergency-response-act-ahera" title="Explore how the Asbestos Hazard Emergency Response Act (AHERA) is designed to protect students, educators, and staff from exposure to asbestos in schools. ">Asbestos Hazard Emergency Response Act (AHERA)</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/asbestos-program" class="nav-link--asbestos-program" title="Learn more about Asbestos safety in Texas and how health care professionals provide direct services to prevent occupational and environmental diseases. " data-drupal-link-system-path="node/26716">Asbestos Program </a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <a href="/about-dshs/legislative-information" title="Legislative Information" data-drupal-link-system-path="node/4476">Legislative Information</a>
+          <a href="/about-dshs/legislative-information" class="dropdown-toggle nav-link--about-dshs-legislative-information" title="Legislative Information" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/4476"></a>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/about-dshs/legislative-information/legislative-reports" class="nav-link--about-dshs-legislative-information-legislative-reports" title="Legislative Reports" data-drupal-link-system-path="node/44746">Legislative Reports</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <span>Licenses, Registrations &amp; Permits</span>
+          <span class="dropdown-toggle nav-link-" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"></span>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/dshs-ems-trauma-systems/ems-personnel-certification-licensure" class="nav-link--dshs-ems-trauma-systems-ems-personnel-certification-licensure" data-drupal-link-system-path="node/26911">Emergency Medical Services (EMS) Licensure</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/tattoo-body-piercing-studios/licensing-requirements-tattoo-body-piercing-studios" class="nav-link--tattoo-body-piercing-studios-licensing-requirements-tattoo-body-piercing-studios" data-drupal-link-system-path="node/27411">Tattoo &amp; Body Piercing</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/licensing-certified-food-manager-training-programs" class="nav-link--licensing-certified-food-manager-training-programs" data-drupal-link-system-path="node/43391">Food Manager</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/licensing-food-handler-training-programs" class="nav-link--licensing-food-handler-training-programs" data-drupal-link-system-path="node/4361">Food Handler</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/asbestos-program" class="nav-link--asbestos-program" data-drupal-link-system-path="node/26716">Asbestos Safety</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+         <li class="mobile-view-all"><a href="/business-compliance" data-drupal-link-system-path="node/161">View all Business &amp; Compliance</a></li>
+                </ul>
+  
+                        </li>
+                
+                    <li class="nav-item menu-item--expanded dropdown">
+                          <a href="/data-case-reporting" class="nav-link dropdown-toggle nav-link--data-case-reporting" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/41781">Data &amp; Case Reporting</a>
+                                  <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <span>Health Statistics &amp; Data</span>
+          <span class="dropdown-toggle nav-link-" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"></span>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="https://healthdata.dshs.texas.gov/" class="nav-link-https--healthdatadshstexasgov-" title="This site contains public data and statistics on various health topics">Texas Health Data</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/center-health-statistics" class="nav-link--center-health-statistics" data-drupal-link-system-path="node/20816">Center for Health Statistics</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/vital-statistics-data" class="nav-link--vital-statistics-data" data-drupal-link-system-path="node/28731">Vital Statistics Data</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/texas-center-nursing-workforce-studies" class="nav-link--texas-center-nursing-workforce-studies" data-drupal-link-system-path="node/44696">Nursing Workforce Research</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+                    <li class="dropdown-item menu-item--expanded dropdown">
+                          <span>Reporting</span>
+          <span class="dropdown-toggle nav-link-" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"></span>
+                        <ul class="dropdown-menu">
+        
+                    <li class="dropdown-item">
+                          <a href="/notifiable-conditions" class="nav-link--notifiable-conditions" data-drupal-link-system-path="node/20666">Notifiable Conditions</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/national-electronic-disease-surveillance-system-nedss" class="nav-link--national-electronic-disease-surveillance-system-nedss" data-drupal-link-system-path="node/28446">National Electronic Disease Surveillance System (NEDSS)</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/texas-health-care-information-collection" class="nav-link--texas-health-care-information-collection" data-drupal-link-system-path="node/28771">Health Care Information Collection (THCIC)</a>
+              </li>
+                
+                    <li class="dropdown-item">
+                          <a href="/texas-syndromic-surveillance-txs2" class="nav-link--texas-syndromic-surveillance-txs2" data-drupal-link-system-path="node/28751">Texas Syndromic Surveillance (TxS2)</a>
+              </li>
+                    </ul>
+  
+                        </li>
+                
+         <li class="mobile-view-all"><a href="/data-case-reporting" data-drupal-link-system-path="node/41781">View all Data &amp; Case Reporting</a></li>
+                </ul>
+  
+                        </li>
+                    </ul>
+  
+
+
+  </nav>
+
+
+                          <nav class="navbar navbar-top d-xl-none mobile-navbar-top" aria-label="Top navigation for mobile with language selection, share links and search">
+                <div class="navbar-top-content-mobile">
+                    <section class="region region-top-menu">
+    <nav role="navigation" aria-labelledby="block-topmenu-menu" class="block block-menu navigation menu--top-menu">
+            
+  <div  class="visually-hidden">Top Menu</div>
+  
+
+        
+              <ul block="topmenu" region="top_menu" class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/programs-directory" class="nav-link nav-link--programs-directory" data-drupal-link-system-path="node/396">Programs</a>
+              </li>
+                <li class="nav-item">
+                <a href="/health-topics" class="nav-link nav-link--health-topics" data-drupal-link-system-path="health-topics">A-Z Index</a>
+              </li>
+                <li class="nav-item">
+                <a href="/news-alerts" class="nav-link nav-link--news-alerts" data-drupal-link-system-path="node/281">News &amp; Alerts</a>
+              </li>
+                <li class="nav-item">
+                <a href="/about-dshs/legislative-information" class="nav-link nav-link--about-dshs-legislative-information" title="Legislative Information" data-drupal-link-system-path="node/4476">Legislative Information</a>
+              </li>
+                <li class="nav-item">
+                <a href="/contact-us" class="nav-link nav-link--contact-us" data-drupal-link-system-path="node/421">Contact Us</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+                    <section class="region region-language">
+    
+  </section>
+
+                  <div class="block-social-media-links block block-social-media-links-block">
+  
+    
+      <div class="content">
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/TexasDSHS"  title="Click here to visit facebook" >
+        <span class="sr-only">Click here to visit facebook</span>
+        <span class='fa fa-facebook fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://www.twitter.com/TexasDSHS"  title="Click here to visit twitter" >
+        <span class="sr-only">Click here to visit twitter</span>
+        <span class='fa fa-twitter fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/TexasDSHS"  title="Click here to visit instagram" >
+        <span class="sr-only">Click here to visit instagram</span>
+        <span class='fa fa-instagram fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--website" href="https://service.govdelivery.com/accounts/TXHHSC/subscriber/new?qsp=328"  title="Click here to visit website" >
+        <span class="sr-only">Click here to visit website</span>
+        <span class='fa fa-home fa-2x'></span>
+      </a>
+
+          </li>
+  </ul>
+
+    </div>
+  </div>
+
+                </div>
+              </nav>
+                      </div>
+                
+              </div>
+    </nav>
+  </header>
+<!-- Header -- End -->
+          <div class="breadcrumb-wrapper">
+          <div id="block-dshs-theme-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+      
+
+  <nav role="navigation" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+                  <li class="breadcrumb-item">
+          <a href="/">Home</a>
+        </li>
+                        <li class="breadcrumb-item active">
+          Page Not Found
+        </li>
+              </ol>
+  </nav>
+
+    </div>
+  </div>
+
+
+      </div>
+        <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div class="hero hero-front">
+          <aside class="container-fluid section clearfix" role="complementary" style="padding: 0;">
+              <div data-drupal-messages-fallback class="hidden"></div>
+
+
+          </aside>
+        </div>
+                    <div id="main" class="container">
+          
+                    <div class="row row-offcanvas row-offcanvas-left clearfix">
+            <main class="main-content col" id="content" role="main">
+              <section class="section">
+                <a href="#" class="invisible hidden" id="main-content" tabindex="-1">main content</a>
+                  <div id="block-dshs-theme-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+
+  <article role="article" about="/page-not-found" class="node node--type-error-page node--promoted node--view-mode-full clearfix">
+  <div class="node__content clearfix">
+  <div class="content-flex-container row node-content-flex-container">
+    <div class="content-main-content full-width col-12 col-md-12 node-content-main-content">
+        
+
+
+            <div class="field field--name-field-error-hero-banner field--type-entity-reference-revisions field--label-hidden field__item"  class="field field--name-field-error-hero-banner field--type-entity-reference-revisions field--label-hidden field__item" id="field--name-field-error-hero-banner">
+ 
+  <div class="paragraph paragraph--type--hero-text paragraph--view-mode--default">
+    
+          <div class="hero-text-container" style="background-image: url(/sites/default/files/default_images/region-search-banner_1.png);background-size: cover;background-position: center;background-repeat: no-repeat;" alt = "Hero Banner Default Image">
+    
+        <div class="hero-text-textelements">
+          <h1 class="hero-text-title">Page Not Found</h1>
+                      <div class="hero-text-body">
+            <div class="field field--name-field-hero-text-body field--type-string-long field--label-hidden field__item"  class="field field--name-field-hero-text-body field--type-string-long field--label-hidden field__item" id="field--name-field-hero-text-body"><p>Can we help you find something?</p>
+</div>
+      </div>
+                  </div>
+     </div>
+
+      </div>
+
+</div>
+      
+      <div class="field field--name-field-error-content field--type-entity-reference-revisions field--label-hidden field__items"  class="field field--name-field-error-content field--type-entity-reference-revisions field--label-hidden field__items" id="field--name-field-error-content">
+              <div class="field__item">        
+    <div class="error-container">
+                <div class="paragraph paragraph--type--error-paragraphs paragraph--view-mode--default">
+                      <div class="row">
+                <div class="error-title"></div>
+                <div class="text-description">
+            <div class="clearfix text-formatted field field--name-field-error-summary field--type-text-long field--label-hidden field__item"  class="clearfix text-formatted field field--name-field-error-summary field--type-text-long field--label-hidden field__item" id="field--name-field-error-summary"><h2 style="color: rgb(154, 118, 17);">We’re sorry, the page you’re looking for was not found.</h2>
+</div>
+      </div>
+            </div>
+                  </div>
+          </div>
+    </div>
+              <div class="field__item">        
+    <div class="error-container">
+                <div class="paragraph paragraph--type--error-paragraphs paragraph--view-mode--default">
+                      <div class="row">
+                <div class="error-title">
+            <div class="field field--name-field-error-title field--type-string field--label-hidden field__item"  class="field field--name-field-error-title field--type-string field--label-hidden field__item" id="field--name-field-error-title">How can I find what I need?</div>
+      </div>
+                <div class="text-description">
+            <div class="clearfix text-formatted field field--name-field-error-summary field--type-text-long field--label-hidden field__item"  class="clearfix text-formatted field field--name-field-error-summary field--type-text-long field--label-hidden field__item" id="field--name-field-error-summary"><p>Find a health topic in the <a href="/health-topics">A-Z index</a>. </p>
+
+<p>Explore our <a href="/programs">programs</a>. </p>
+
+<p><strong>Visit landing pages for the following: </strong></p>
+
+<p><a href="/services">Services</a> </p>
+
+<p><a href="/health-wellness">Health &amp; Wellness</a> </p>
+
+<p><a href="/diseases-conditions">Diseases &amp; Conditions</a> </p>
+
+<p><a href="/business-compliance">Business &amp; Compliance</a> </p>
+
+<p><a href="/data-case-reporting">Data &amp; Case Reporting</a></p>
+
+<p><a href="/news-alerts">News &amp; Alerts</a> </p>
+
+<p><a href="/jobs-at-dshs">Jobs at DSHS</a> </p>
+
+<p>Use the search bar at the top of this page or visit the <a href="/search/site">search page</a>. </p>
+
+<p><strong>How can I get more help? </strong></p>
+
+<p><a href="/contact-us">Contact us for more help</a>. </p>
+</div>
+      </div>
+            </div>
+                  </div>
+          </div>
+    </div>
+          </div>
+  
+    </div>
+
+      </div>
+
+  </div>
+
+
+</article>
+
+    </div>
+  </div>
+
+
+              </section>
+            </main>
+                                  </div>
+        </div>
+                </div>
+    <!-- Footer -- Begin -->
+<footer class="site-footer footer">
+      <div class="footer-top-container">
+              <div class="footer-links">
+          <nav class="footer-links-container" aria-label="Footer menu">
+                          <div class="menu-footer">
+                <a class="footer-title" href="#"><span class="footer-mo-h2">Agency</span></a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#footermob1" aria-controls="footermob1" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="sr-only">Click here to expand and collapse</span>
+                </button>
+              </div>
+              <div class="collapse navbar-collapse" id="footermob1">
+                  <section class="region region-footer-first">
+    <nav role="navigation" aria-labelledby="block-agencies-menu" id="block-agencies" class="block block-menu navigation menu--agencies">
+      
+  <div id="block-agencies-menu" class="footer-block-title">Agency</div>
+  
+
+        
+              <ul block="agencies" region="footer_first" class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/about-dshs" class="nav-link nav-link--about-dshs" data-drupal-link-system-path="node/4326">About DSHS</a>
+              </li>
+                <li class="nav-item">
+                <a href="/about-dshs/legislative-information" class="nav-link nav-link--about-dshs-legislative-information" title="Visitor Information" data-drupal-link-system-path="node/4476">Legislative Information</a>
+              </li>
+                <li class="nav-item">
+                <a href="/compact-texans" class="nav-link nav-link--compact-texans" title="Compact with Texans" data-drupal-link-system-path="node/38316">Compact with Texans</a>
+              </li>
+                <li class="nav-item">
+                <a href="/complaints-information-requests" class="nav-link nav-link--complaints-information-requests" target="_blank" title="Website Feedback">Website Feedback</a>
+              </li>
+                <li class="nav-item">
+                <a href="/notice-privacy-practices" class="nav-link nav-link--notice-privacy-practices" title="Privacy Practices" data-drupal-link-system-path="node/38401">Notice of Privacy Practices</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://oig.hhs.texas.gov/report-fraud-waste-or-abuse" class="nav-link nav-link-https--oighhstexasgov-report-fraud-waste-or-abuse" title="Report Fraud, Waste &amp; Abuse">Report Fraud, Waste, &amp; Abuse</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-footercss" class="block block-block-content block-block-content38fffcfe-2d79-40b4-a5e6-623365e90ee8">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"  class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item" id="field--name-body"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.view-group-nodes.view-group-nodes.view-id-group_nodes th .tablesort.tablesort--desc, .view-group-members.view-id-group_members th .tablesort.tablesort--desc{ background-image: url(/core/misc/icons/787878/twistie-up.svg) !important; } .view-group-nodes.view-group-nodes.view-id-group_nodes th .tablesort.tablesort--asc, .view-group-members.view-id-group_members th .tablesort.tablesort--asc{ background-image: url(/core/misc/icons/787878/twistie-down.svg) !important; }
+.book-pager { display: none; }
+article nav.book-navigation, article .inline__links .book-add-child, article .inline__links  .book-printer {
+display: none;
+}
+.js td .dropbutton-widget {
+
+position: absolute !important;
+}
+div.paragraph--type--text-paragraph ul,
+div.paragraph--type--text-paragraph ol { list-style-position: outside !important; }
+
+/*--><!]]>*/
+</style></div>
+      
+    </div>
+  </div>
+
+  </section>
+
+              </div>
+            
+
+                                        <div class="menu-footer">
+                <a class="footer-title" href="#"><span class="footer-mo-h2">Careers</span></a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#footermob2" aria-controls="footermob2" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="sr-only">Click here to expand and collapse</span>
+                </button>
+              </div>
+              <div class="collapse navbar-collapse" id="footermob2">
+                  <section class="region region-footer-second">
+    <nav role="navigation" aria-labelledby="block-careers-menu" id="block-careers" class="block block-menu navigation menu--careers">
+      
+  <div id="block-careers-menu" class="footer-block-title">Careers</div>
+  
+
+        
+              <ul block="careers" region="footer_second" class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/jobs-at-dshs" class="nav-link nav-link--jobs-at-dshs" title="Jobs at DSHS" data-drupal-link-system-path="node/42746">Jobs at DSHS</a>
+              </li>
+                <li class="nav-item">
+                <a href="/internships-at-dshs" class="nav-link nav-link--internships-at-dshs" title="Internships at DSHS" data-drupal-link-system-path="node/38486">Internships at DSHS</a>
+              </li>
+                <li class="nav-item">
+                <a href="/preventive-medicine-residency" class="nav-link nav-link--preventive-medicine-residency" title="Preventive Medicine Residency " data-drupal-link-system-path="node/37856">Preventive Medicine Residency </a>
+              </li>
+                <li class="nav-item">
+                <a href="/volunteer-opportunities" class="nav-link nav-link--volunteer-opportunities" title="Volunteer Opportunities" data-drupal-link-system-path="node/30796">Volunteer Opportunities</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+              </div>
+            
+
+                                        <div class="menu-footer">
+                <a class="footer-title" href="#"><span class="footer-mo-h2">Resources</span></a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#footermob3" aria-controls="footermob3" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="sr-only">Click here to expand and collapse</span>
+                </button>
+              </div>
+              <div class="collapse navbar-collapse" id="footermob3">
+                  <section class="region region-footer-third">
+    <nav role="navigation" aria-labelledby="block-resources-menu" id="block-resources" class="block block-menu navigation menu--resources">
+      
+  <div id="block-resources-menu" class="footer-block-title">Resources</div>
+  
+
+        
+              <ul block="resources" region="footer_third" class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/office-practice-learning" class="nav-link nav-link--office-practice-learning" title="Local Health Services" data-drupal-link-system-path="node/7956">Office of Practice and Learning</a>
+              </li>
+                <li class="nav-item">
+                <a href="/grand-rounds-program" class="nav-link nav-link--grand-rounds-program" title="Grand Rounds" data-drupal-link-system-path="node/4491">Grand Rounds</a>
+              </li>
+                <li class="nav-item">
+                <a href="/hipaa-dshs" class="nav-link nav-link--hipaa-dshs" title="HIPAA" data-drupal-link-system-path="node/44781">HIPAA</a>
+              </li>
+                <li class="nav-item">
+                <a href="/site-policies" class="nav-link nav-link--site-policies" title="Site Policies" data-drupal-link-system-path="node/42751">Site Policies</a>
+              </li>
+                <li class="nav-item">
+                <a href="/sitemap" class="nav-link nav-link--sitemap" title="Site Map" data-drupal-link-system-path="node/43481">Site Map</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+              </div>
+            
+
+                                        <div class="menu-footer">
+                <a class="footer-title" href="#"><span class="footer-mo-h2">Texas<span class="footer-mo-h2"></a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#footermob4" aria-controls="footermob4" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="sr-only">Click here to expand and collapse</span>
+                </button>
+              </div>
+              <div class="collapse navbar-collapse" id="footermob4">
+                  <section class="region region-footer-fourth">
+    <nav role="navigation" aria-labelledby="block-partners-menu" id="block-partners" class="block block-menu navigation menu--partners">
+      
+  <div id="block-partners-menu" class="footer-block-title">Texas</div>
+  
+
+        
+              <ul block="partners" region="footer_fourth" class="clearfix nav">
+                    <li class="nav-item">
+                <a href="https://www.texas.gov/" class="nav-link nav-link-https--wwwtexasgov-" target="_self" title="Texas.gov">Texas.gov</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://hhs.texas.gov" class="nav-link nav-link-https--hhstexasgov" target="_self" title="Texas HHS">Texas HHS</a>
+              </li>
+                <li class="nav-item">
+                <a href="http://governor.state.tx.us/homeland" class="nav-link nav-link-http--governorstatetxus-homeland" target="_self" title="Texas Homeland Security">Texas Homeland Security</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://veterans.portal.texas.gov/" class="nav-link nav-link-https--veteransportaltexasgov-" target="_self" title="Texas Veterans Portal">Texas Veterans Portal</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://www.tsl.texas.gov/" class="nav-link nav-link-https--wwwtsltexasgov-" target="_self" title="Statewide Search">Statewide Search</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+              </div>
+                      </nav>
+        </div>
+          </div>
+    <div class="footer-bottom-container clearfix">
+              <div class="footer-bottom">
+            <section class="region region-copyright">
+    <div id="block-copyright" class="block block-block-content block-block-contentf7671685-1da4-4883-9991-61a1e968663e">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"  class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item" id="field--name-body"><div class="copyright">Copyright © <script>
+<!--//--><![CDATA[// ><!--
+document.write(/\d{4}/.exec(Date())[0])
+//--><!]]>
+</script> Texas Department of State Health Services. All rights reserved.</div>
+</div>
+      
+    </div>
+  </div>
+
+  </section>
+
+            <section class="region region-footer-social">
+    <div class="block-social-media-links block block-social-media-links-block">
+  
+    
+      <div class="content">
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/TexasDSHS"  target="_blank" rel="nofollow" title="Click here to visit facebook" >
+        <span class="sr-only">Click here to visit facebook</span>
+        <span class='fa fa-facebook fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/TexasDSHS"  target="_blank" rel="nofollow" title="Click here to visit instagram" >
+        <span class="sr-only">Click here to visit instagram</span>
+        <span class='fa fa-instagram fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://www.twitter.com/TexasDSHS"  target="_blank" rel="nofollow" title="Click here to visit twitter" >
+        <span class="sr-only">Click here to visit twitter</span>
+        <span class='fa fa-twitter fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/TexasDSHS"  target="_blank" rel="nofollow" title="Click here to visit youtube" >
+        <span class="sr-only">Click here to visit youtube</span>
+        <span class='fa fa-youtube fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--linkedin" href="https://www.linkedin.com//company/texasdshs"  target="_blank" rel="nofollow" title="Click here to visit linkedin" >
+        <span class="sr-only">Click here to visit linkedin</span>
+        <span class='fa fa-linkedin fa-2x'></span>
+      </a>
+
+          </li>
+  </ul>
+
+    </div>
+  </div>
+
+  </section>
+
+        </div>
+          </div>
+  </footer>
+<!-- Footer -- End -->
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"bootstrap_barrio\/breadcrumb,bootstrap_barrio\/form,bootstrap_barrio\/global-styling,bootstrap_barrio\/links,bootstrap_barrio\/messages_white,bootstrap_barrio\/node,dshs_theme\/bootstrap_cdn,dshs_theme\/ckeditor_settings_modifier,dshs_theme\/component.hero_text_paragraph,dshs_theme\/component.text_paragraph,dshs_theme\/datatable,dshs_theme\/font.pt_sans_pro,dshs_theme\/global-styling,google_analytics\/google_analytics,paragraphs\/drupal.paragraphs.unpublished,search_api_autocomplete\/search_api_autocomplete,social_media_links\/fontawesome.component,social_media_links\/social_media_links.theme,statistics\/drupal.statistics,stylescomboplus\/stylescomboplus.style,system\/base,views_autocomplete_filters\/drupal.views-autocomplete-filters,wcms_helper\/siteimprove,we_megamenu\/form.we-mega-menu-frontend","theme":"dshs_theme","theme_token":null},"ajaxTrustedUrl":{"\/search\/site":true},"google_analytics":{"account":"G-PPZH1XTPPF","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"statistics":{"data":{"nid":"46096"},"url":"\/core\/modules\/statistics\/statistics.php"},"search_api_autocomplete":{"acquia_search":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"23714d910c37d40a716325b44d61a95a1e52043b51e51dd0fa4de6e36a0160db"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.3"></script>
+<script src="/core/misc/polyfills/element.matches.js?v=9.5.10"></script>
+<script src="/core/misc/polyfills/object.assign.js?v=9.5.10"></script>
+<script src="/core/misc/polyfills/nodelist.foreach.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/css-escape/css.escape.js?v=1.5.1"></script>
+<script src="/core/assets/vendor/es6-promise/es6-promise.auto.min.js?v=4.2.8"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.5.10"></script>
+<script src="/core/misc/drupal.js?v=9.5.10"></script>
+<script src="/core/misc/drupal.init.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=5.3.3"></script>
+<script src="/core/misc/autocomplete.js?v=9.5.10"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=9.5.10"></script>
+<script src="/core/misc/jquery.once.bc.js?v=9.5.10"></script>
+<script src="/themes/contrib/bootstrap_barrio/js/barrio.js?v=9.5.10"></script>
+<script src="/themes/contrib/bootstrap_barrio/js/affix.js?v=9.5.10"></script>
+<script src="//cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/themes/custom/dshs_theme/js/jquery.matchHeight.js?v=9.5.10"></script>
+<script src="/themes/custom/dshs_theme/js/jquery.breakpoints.js?v=9.5.10"></script>
+<script src="/themes/custom/dshs_theme/js/global.js?v=9.5.10"></script>
+<script src="//cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+<script src="//cdn.datatables.net/plug-ins/1.11.5/sorting/natural.js"></script>
+<script src="/themes/custom/dshs_theme/js/table-sticky.js?s2snxc"></script>
+<script src="https://siteimproveanalytics.com/js/siteanalyze_28641.js" async></script>
+<script src="/core/modules/statistics/statistics.js?v=9.5.10"></script>
+<script src="/modules/contrib/we_megamenu/assets/js/we_mobile_menu.js?v=1"></script>
+<script src="/modules/contrib/we_megamenu/assets/js/we_megamenu_frontend.js?v=1"></script>
+<script src="/core/misc/debounce.js?v=9.5.10"></script>
+<script src="/core/misc/form.js?v=9.5.10"></script>
+<script src="/modules/contrib/views_autocomplete_filters/js/views-autocomplete-filters.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/ckeditor/ckeditor.js?v=4.21.0"></script>
+<script src="/themes/custom/dshs_theme/js/ckeditor_settings_modifier.js?v=1.x"></script>
+<script src="/core/misc/progress.js?v=9.5.10"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.2.0"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=9.5.10"></script>
+<script src="/core/misc/ajax.js?v=9.5.10"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=9.5.10"></script>
+<script src="/core/misc/position.js?v=9.5.10"></script>
+<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?s2snxc"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-0edcd71d80f068c4346","applicationID":"1064697332","transactionName":"MlxSZUpSVkRQUxYLWQsWcVJMWldZHmwmEEMVWFxtVlxcUm1zDQxCF1ZcXV1BZHleVAc0XwBOc15WR0pYXVwHEAxfT1lUTw==","queueTime":26,"applicationTime":938,"atts":"HhtREwJIRUo=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
